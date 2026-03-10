@@ -1,33 +1,57 @@
 # Predictive Maintenance using Machine Learning
 
-This project predicts machine failure using a Machine Learning model and provides a web interface to visualize predictions.
+This project predicts industrial machine failures using a Machine Learning model and provides a web interface built with Flask to visualize predictions.
 
 ## Features
-- Machine failure prediction
-- Data visualization
-- Web interface using Flask
+
+* Machine failure prediction
+* Interactive dashboard
+* Failure risk alerts
+* Sensor data visualization
 
 ## Technologies Used
-- Python
-- Flask
-- Scikit-learn
-- Pandas
-- HTML / CSS
 
-## Project Structure
-data/ – Dataset used for training  
-model/ – Trained machine learning model  
-templates/ – HTML frontend  
-static/ – CSS and assets  
-app.py – Main Flask application  
+* Python
+* Flask
+* Scikit-learn
+* Pandas
+* HTML / CSS / JavaScript
+
+## Project Screenshots
+
+### Dashboard
+
+![Dashboard](images/Dashboard.png)
+
+### Failure Alert
+
+![Alert](images/alert.png)
+
+### Data Visualization
+
+![Graph](images/Graph.png)
 
 ## How to Run
 
 1. Install dependencies
+
+```
 pip install -r requirements.txt
+```
 
 2. Run the application
-python app.py
 
-3. Open browser
+```
+python app.py
+```
+
+3. Open in browser
+
+```
 http://127.0.0.1:5000
+```
+
+## Author
+
+Kovvuri Karthikeya
+B.Tech CSE – KL University
