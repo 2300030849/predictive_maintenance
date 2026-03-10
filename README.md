@@ -20,16 +20,13 @@ This project predicts industrial machine failures using a Machine Learning model
 ## Project Screenshots
 
 ### Dashboard
-
-![Dashboard](images/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Failure Alert
-
-![Alert](images/alert.png)
+![Alert](alert.png)
 
 ### Data Visualization
-
-![Graph](images/Graph.png)
+![Graph](Graph.png)
 
 ## How to Run
 
